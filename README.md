@@ -1,0 +1,1 @@
+# Logistic-Regression-Model-for-Prediction-of-Heart-Disease
