@@ -1,7 +1,7 @@
 # Logistic-Regression-Model-for-Prediction-of-Heart-Disease
 
 ## Overview
-This repository contains a statistical model for the biary classification task of predicting heart disease using clinical features from a public dataset. The model utilizes a Logistic Regression (LR) implementation to analyze patterns among clinical features as independent variables to predict the value of the target variable, representing the probability of heart disease.
+This repository contains a statistical model for the binary classification task of predicting heart disease using clinical features from a public dataset. The model utilizes a Logistic Regression (LR) implementation to analyze patterns among clinical features as independent variables to predict the value of the target variable, representing the probability of heart disease.
 
 ## Clinical Features of the Dataset
 - age; at the time of the study, measured in years
